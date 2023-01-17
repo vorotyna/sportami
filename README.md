@@ -14,11 +14,11 @@ https://user-images.githubusercontent.com/97066398/213569867-5bcccb07-6035-4d83-
 
 ### Figma
 
-!["Wireframe"]()
+!["Wireframe"](https://github.com/vorotyna/sportami/blob/main/client/docs/wireframe.png?raw=true)
 
-!["Colour Schemes"]()
+!["Colour Schemes"](https://github.com/vorotyna/sportami/blob/main/docs/colours.png?raw=true)
 
-!["ERD"]()
+!["ERD"](https://github.com/vorotyna/sportami/blob/main/ERD.png?raw=true)
 
 ## How It's Made:
 
@@ -44,4 +44,4 @@ Sportami utilizes the PERN stack to cover front-end, back-end and database manag
   - then `npm start`
 - Keep the 2 terminals up and running
 - On your browser, navigate to `http://localhost:3000/` and start exploring the app! <br />
-  _NOTE:_ The app is built for a screen size of 375 x 636px (i.e., iPhone 11 Pro).
+  **NOTE:** The app is built for a screen size of 375 x 636px (i.e., iPhone 11 Pro).
