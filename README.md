@@ -35,5 +35,5 @@ Sportami utilizes the PERN stack to cover front-end, back-end and database manag
   - then `npm i`
   - then `npm start`
 - Keep the 2 terminals up and running
-- On your browser, navigate to `http://localhost:3000/` and start exploring the app!
+- On your browser, navigate to `http://localhost:3000/` and start exploring the app! <br />
   _NOTE:_ The app is built for a screen size of 375 x 636px (i.e., iPhone 11 Pro).
