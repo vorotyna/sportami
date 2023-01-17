@@ -14,11 +14,11 @@ https://user-images.githubusercontent.com/97066398/213569867-5bcccb07-6035-4d83-
 
 ### Figma
 
-!["Wireframe"](https://github.com/vorotyna/sportami/blob/main/client/docs/wireframe.png?raw=true)
+!["Wireframe"](https://github.com/vorotyna/sportami/blob/main/docs/wireframe.png?raw=true)
 
 !["Colour Schemes"](https://github.com/vorotyna/sportami/blob/main/docs/colours.png?raw=true)
 
-!["ERD"](https://github.com/vorotyna/sportami/blob/main/ERD.png?raw=true)
+!["ERD"](https://github.com/vorotyna/sportami/blob/main/docs/ERD.png?raw=true)
 
 ## How It's Made:
 
