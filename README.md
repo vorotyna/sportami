@@ -12,6 +12,14 @@ https://user-images.githubusercontent.com/97066398/213570084-502bba6f-6d07-47c5-
 
 https://user-images.githubusercontent.com/97066398/213569867-5bcccb07-6035-4d83-9afe-bab2f6eb191d.mov
 
+### Figma
+
+!["Wireframe"]()
+
+!["Colour Schemes"]()
+
+!["ERD"]()
+
 ## How It's Made:
 
 **Tech used:** PostgreSQL, Express, React, Node, Material UI
